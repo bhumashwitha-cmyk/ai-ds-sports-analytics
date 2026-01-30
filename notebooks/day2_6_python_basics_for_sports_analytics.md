@@ -1,4 +1,22 @@
-# Day 2–6: Python Basics for Sports Analytics 🏏🐍
+# Day 2–6: Python Basics for Sports Analytics
+
+## Quick Summary
+- Variables and data types
+- Input and output
+- Conditions (if/else)
+- Loops (while, for)
+- break and infinite loops (cricket example)
+
+## Key concepts in my words
+- What is a variable
+- Why int(input()) is used
+- How while loop works
+- How break stops a loop
+
+## Cricket analytics connection
+- Repeating balls → loops
+- Score calculation → variables
+- Match conditions → if/else
 
 ## What I learned
 - Python syntax and structure
